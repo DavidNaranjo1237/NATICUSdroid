@@ -3,9 +3,10 @@
 Proyecto curso modelos y simulacion de sistemas II
 
 Grupo 8:
-Claudia Rocha 
-David Naranjo
-Sebastian Bedoya
+
+- Claudia Rocha
+- David Naranjo
+- Sebastian Bedoya
 
 ## Estructura
 
