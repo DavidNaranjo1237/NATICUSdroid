@@ -11,6 +11,7 @@ Grupo 8:
 ## Entrega final
 
 Informe: [Ver documento](./Informe_Final_NATICUSDroid.pdf)
+
 Video: 
 
 ## Estructura
