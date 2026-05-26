@@ -33,6 +33,7 @@ Todos los notebooks están enlazados directamente a Colab haga click sobre el no
 
 ### Reducción de dimensión
 
+- [07_análisis_variables.ipynb](https://colab.research.google.com/github/DavidNaranjo1237/NATICUSdroid/blob/main/notebooks/07_análisis_variables.ipynb) - análisis de variables previo a la reducción de dimensión.
 - [08_extraccion_caracteristicas_lineal_pca.ipynb](https://colab.research.google.com/github/DavidNaranjo1237/NATICUSdroid/blob/main/notebooks/08_extraccion_caracteristicas_lineal_pca.ipynb) - extracción de características lineal con PCA.
 - [09_extraccion_caracteristicas_no_lineal_umap.ipynb](https://colab.research.google.com/github/DavidNaranjo1237/NATICUSdroid/blob/main/notebooks/09_extraccion_caracteristicas_no_lineal_umap.ipynb) - extracción de características no lineal con UMAP.
 
