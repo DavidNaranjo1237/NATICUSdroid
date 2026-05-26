@@ -8,6 +8,11 @@ Grupo 8:
 - David Naranjo
 - Sebastian Bedoya
 
+## Entrega final
+
+Informe: [Ver documento](./Informe_Final_NATICUSDroid.pdf)
+Video: 
+
 ## Estructura
 
 - `data/raw/`: CSV original del dataset.
