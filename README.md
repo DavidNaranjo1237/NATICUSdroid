@@ -12,7 +12,7 @@ Grupo 8:
 
 Informe: [Ver documento](./Informe_Final_NATICUSDroid.pdf)
 
-Video: 
+Video: https://youtu.be/uO7NZBrPpjs
 
 ## Estructura
 
